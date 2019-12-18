@@ -1,3 +1,7 @@
 This is a test after creater master_control.
 
+<<<<<<< HEAD
 Adding a new line to Preston's file.
+=======
+Modifying Preston's file.
+>>>>>>> cf77f38390ee615489d0bba3b462e0f818c0b1e2
