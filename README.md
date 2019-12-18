@@ -8,5 +8,5 @@ I just added a line to this file!
  
  more additions'
 
-Hello Class
-
+# Hello Class
+How are you all today?
